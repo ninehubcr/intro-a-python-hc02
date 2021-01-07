@@ -26,5 +26,17 @@ Una vez ejecutado este comando, se abrirá Jupyter Lab en su navegador predeterm
 1. Una vez abierto Jupyter Lab, podemos crear un nuevo Notebook dando click al siguiente ícono:
 
 ![Nuevo Notebook](new.png)
+
 Esto creará un nuevo cuaderno de Jupyter en nuestra carpeta actual. También podemos abrir cuadernos existentes o abrir una nueva consola para ejecutar comandos.
 
+1. Los notebooks que se vayan creando aparecen en el lado izquierda de la pantalla.
+
+![notebooks](notebook.png)
+
+1. Para crear un nuevo bloque de código debe presionar el botón de "+" en la parte superior del Notebook.
+
+![New block](run.png)
+
+1. Para ejecutar un bloque de código presionamos el botón de "Ejecutar celda y avanzar". También podemos utilizar el atajo de las teclas "Shift + Enter" para ejecutar y avanzar.
+
+![Run](run.png)
