@@ -40,3 +40,5 @@ Esto creará un nuevo cuaderno de Jupyter en nuestra carpeta actual. También po
 1. Para ejecutar un bloque de código presionamos el botón de "Ejecutar celda y avanzar". También podemos utilizar el atajo de las teclas "Shift + Enter" para ejecutar y avanzar.
 
 ![Run](run.png)
+
+![Executed block](ran.png)
