@@ -1,44 +1,54 @@
 # Guía de instalación 
 
 ## Instalar Anaconda 3
-- Seguir la guía en el siguiente enlace
+Seguir la guía en el siguiente enlace
 - [Instalación de Anaconda](https://docs.anaconda.com/anaconda/install/)
+
+## Instalar JupyterLab
+
+1. Una vez instalado Anaconda 3, abrimos el Anaconda Navigator desde el buscador de programas.
+
+![AnacondaNavigator](Images/ana.png)
+
+2. Desde el navegador, buscamos la aplicación de JupyterLab y le hacemos click en "Install".
+
+![JupyterLab](Images/lab.png)
 
 ## Correr Notebooks de Jupyter
 ### Windows
 1. Buscar la aplicación de Símbolo del Sistema, escribiendo "cmd" en el buscador de programas.
-![CMD](cmd.png)
+
+![CMD](Images/cmd.png)
 
 1. Una vez la pantalla de Anaconda Prompt esté abierta, puede navegar a la carpeta donde se encuentra el notebook que quiere correr. En mi caso voy a ir a la carpeta llamada "Curso de Python" en mi Escritorio con el comando, presionando Enter.
 ```
 cd Desktop\Python
 ```
 
-![Moverse a la carpeta deseada](cd.png)
-- Preguntas frecuentes
+![Moverse a la carpeta deseada](Images/cd.png)
 
-1. Una vez en la carpeta, puede correr Jupyter Lab con el comando:
+- Una vez en la carpeta, puede correr Jupyter Lab, desde el prompt de Anaconda Prompt con el comando:
 ```
 jupyter lab
 ```
 Una vez ejecutado este comando, se abrirá Jupyter Lab en su navegador predeterminado del sistema, en la dirección "http://localhost:8888/"
 
-1. Una vez abierto Jupyter Lab, podemos crear un nuevo Notebook dando click al siguiente ícono:
+- Una vez abierto Jupyter Lab, podemos crear un nuevo Notebook dando click al siguiente ícono:
 
-![Nuevo Notebook](new.png)
+![Nuevo Notebook](Images/new.png)
 
 Esto creará un nuevo cuaderno de Jupyter en nuestra carpeta actual. También podemos abrir cuadernos existentes o abrir una nueva consola para ejecutar comandos.
 
-1. Los notebooks que se vayan creando aparecen en el lado izquierda de la pantalla.
+- Los notebooks que se vayan creando aparecen en el lado izquierda de la pantalla.
 
-![notebooks](notebook.png)
+![notebooks](Images/notebook.png)
 
-1. Para crear un nuevo bloque de código debe presionar el botón de "+" en la parte superior del Notebook.
+- Para crear un nuevo bloque de código debe presionar el botón de "+" en la parte superior del Notebook.
 
-![New block](run.png)
+![New block](Images/run.png)
 
-1. Para ejecutar un bloque de código presionamos el botón de "Ejecutar celda y avanzar". También podemos utilizar el atajo de las teclas "Shift + Enter" para ejecutar y avanzar.
+- Para ejecutar un bloque de código presionamos el botón de "Ejecutar celda y avanzar". También podemos utilizar el atajo de las teclas "Shift + Enter" para ejecutar y avanzar.
 
-![Run](run.png)
+![Run](Images/run.png)
 
-![Executed block](ran.png)
+![Executed block](Images/ran.png)
