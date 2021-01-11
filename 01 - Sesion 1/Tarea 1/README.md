@@ -26,7 +26,7 @@ función de sus características espectrales.
 Hipergigantes---Subgigantes---Secuencia principal*
 ```
 10. Una masa solar es equivalente a 1,98892 × 10^30 kg. El Sol (1 masa solar) tiene aproximadamente 1048 veces la masa de Júpiter. Cree dos variables **m_solar** y **m_jupiter** correspondientes a la masa del Sol y el *cálculo* de la masa de Júpiter. Imprima el resultado utilizando la función print() con interpolación de variables i.e.[print(f"Un string {su_variable}"]. 
-11. Una Unidad Astronómica AU es definida como "una unidad de longitud igual, por definición, a 149 597 870 700 m que equivale aproximadamente a la distancia media entre la Tierra y el Sol." Utilizando Python: operadores <>, condicionales *if*, y print(). Evalue las condiciones *True False* e imprima Verdadero/Falso si su distancia al Sol es mayor que 1 AU.
+11. Una Unidad Astronómica AU es definida como "una unidad de longitud igual, por definición, a 149 597 870 700 m que equivale aproximadamente a la distancia media entre la Tierra y el Sol." Utilizando Python: operadores <>, condicionales *if*, y print(). Evalue las condiciones *True False* e imprima *True* si su distancia al Sol es mayor que 1 AU o imprima *False* si la distancia del planeta al Sol es menor a 1 AU.
 
 | Planeta | Distancia al Sol |
 | --- | --- |
