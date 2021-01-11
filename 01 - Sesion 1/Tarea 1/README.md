@@ -14,15 +14,16 @@ Los objetivos de esta semana incluyen familiarización con el ambiente de Jupyte
 6. Concatene e imprima las variables **nombre**, **edad**, **pais** utilizando una sola función print().
 7. ¿Qué tipo de datos son las variables **nombre**, **edad**, **país**? Imprima el tipo de dato de estas variables con la función print().
 8. Imprima la frase "En astronomía, la clasificación estelar es la clasificación de las estrellas en función de sus características espectrales." en tres líneas separadas utilizando una sola función print() y el caracter de escape */n*. Su output debería verse así:
-´´´
+`
 En astronomía, la clasificación estelar 
 es la clasificación de las estrellas en 
 función de sus características espectrales.
-´´´
+`
 9. Imprima las strings "Hipergigantes", "Subgigantes", "Secuencia principal" utilizando una sola función print(), cada palabra deberá estar separada por una string "---" utilizando el argumento sep="---". La línea debe de terminar con un string "\*", utilizando el argumento end="".
-´´´
+
+`
 Hipergigantes---Subgigantes---Secuencia principal*
-´´´
+`
 10. Una masa solar es equivalente a 1,98892 × 10^30 kg. El Sol (1 masa solar) tiene aproximadamente 1048 veces la masa de Júpiter. Cree dos variables **m_solar** y **m_jupiter** correspondientes a la masa del Sol y el *cálculo* de la masa de Júpiter. Imprima el resultado utilizando la función print() con interpolación de variables i.e.[print(f"Un string {su_variable}"]. 
 11. Una Unidad Astronómica AU es definida como "una unidad de longitud igual, por definición, a 149 597 870 700 m que equivale aproximadamente a la distancia media entre la Tierra y el Sol." Utilizando Python: operadores <>, condicionales *if*, y print(). Evalue las condiciones *True False* e imprima Verdadero/Falso si su distancia al Sol es mayor que 1 AU.
 
