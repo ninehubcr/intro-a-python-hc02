@@ -9,16 +9,15 @@ Repositorio con recursos para aprender sobre astronomía y programación.
 
 # Recursos complementarios
 
-# ¿Qué es esta página? ¿A quién va dirigida?
-Este es un repositorio que he creado para que las personas con interés en astronomía o programación { o ambas :-) } tengan un punto de inicio para aventurarse en estos mundos. 
-La mayor parte de mi experiencia y mis estudios es en programación y electrónica, recientemente en radio astronomía, como parte del [NROA NINE Program](https://info.nrao.edu/do/odi/broader-impact-programs/Nine). La mayor parte de este repositorio se enfoca en radio astronomía y en aplicar la programación/informática a este campo.
+## ¿Qué es esta página? ¿A quién va dirigida?
+Este es un repositorio creado para el curso de Introducción a Python - HC02 del NINE Hub CR, como parte del [NRAO NINE Program](https://info.nrao.edu/do/odi/broader-impact-programs/Nine). La mayor parte de este repositorio se enfoca en radio astronomía y en aplicar la programación/informática a este campo.
 
 ![Crab Nebula](https://science.nrao.edu/images/200/vla_crabNebula.jpg)
 
 **Figura 2.** Nebulosa del Cangrejo
 
-## ¿Por qué cree este repositorio?
-1. Uno de los objetivos de NRAO NINE es establecer un hub virtual de radio astronomía en Costa Rica. Para ser aprovechado por estudiantes, profesionales, e interesados, a nivel nacional y regional, incluyendo Centro América y el Caribe. La creación de este Hub se llevará a cabo a partir de agosto del 2020, y busca crear contenido educativo para estudiantes de física + ciencias, programadores, ingenieros, e interesados en general en astronomía y programación. Esto es un preambulo al contenido y los cursos que queremos crear.
+## ¿Por qué se creó este repositorio?
+1. Uno de los objetivos de NRAO NINE es establecer un hub virtual de radio astronomía en Costa Rica. Para ser aprovechado por estudiantes, profesionales, e interesados, a nivel nacional y regional, incluyendo Centro América y el Caribe. La creación de este Hub se llevará a cabo a partir de agosto del 2020, y busca crear contenido educativo para estudiantes de física + ciencias, ciencias de la computación, ingenieros, e interesados en general en astronomía y programación.
 
 1. Uno de los problemas identificados durante las sesiones de creación del Hub es la brecha entre astronomía y programación, en especial para estudiantes de física o ciencias. En este repositorio se presentan cursos introductorios a la programación, utilizando Python.
 
