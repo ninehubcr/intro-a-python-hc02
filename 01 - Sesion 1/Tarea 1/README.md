@@ -13,7 +13,7 @@ Los objetivos de esta semana incluyen familiarización con el ambiente de Jupyte
 5. Cree tres variables **nombre**, **edad**, **pais**. Asigne el valor de estas variables a su nombre, edad, y país.
 6. Concatene e imprima las variables **nombre**, **edad**, **pais** utilizando una sola función print().
 7. ¿Qué tipo de datos son las variables **nombre**, **edad**, **país**? Imprima el tipo de dato de estas variables con la función print().
-8. Imprima la frase "En astronomía, la clasificación estelar es la clasificación de las estrellas en función de sus características espectrales." en tres líneas separadas utilizando una sola función print() y el caracter de escape */n*. Su output debería verse así:
+8. Imprima la frase "En astronomía, la clasificación estelar es la clasificación de las estrellas en función de sus características espectrales." en tres líneas separadas utilizando una sola función print() y el caracter de escape *\n*. Su output debería verse así:
 
 ```
 En astronomía, la clasificación estelar 
