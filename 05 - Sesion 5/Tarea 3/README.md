@@ -6,3 +6,4 @@ Los objetivos de esta semana incluyen cementar los conocimientos de las clases p
 
 ## Instrucciones - Primera parte
 
+1. Cargue los datos del archivo CSV 'data.csv'.
