@@ -41,9 +41,13 @@ Este es un repositorio creado para el curso de Introducción a Python - HC02 del
 1. Libro completo sobre Data Science [Python Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/)
 1. [Introducción a Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 1. Curso completo de Harvard sobre Data Science [CS109](https://cs109.github.io/2015/index.html)
+1. [Scientific computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 
 ### Aprendizaje de Máquina/Aprendizaje Automático
 - [Introducción a Aprendizaje automático](https://www.coursera.org/learn/machine-learning)
+
+### Computer Vision - Visión por computadora
+- [Curso computer vision - freeCodeCamp](https://www.freecodecamp.org/news/advanced-computer-vision-with-python/)
 
 #### Cursos Complementarios
 ##### Algebra Lineal
